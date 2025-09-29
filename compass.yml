@@ -1,0 +1,13 @@
+name: n8n
+id: ari:cloud:compass:20aea788-4ae1-49e8-809b-e38fd6227354:component/7edea3c5-49f8-46b1-a559-b4d26d928d01/d6954b9b-4089-4665-a25e-a3dfd467a2ec
+description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
